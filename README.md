@@ -11,7 +11,7 @@ For installing this study-project you need:
 
 3. Install the other programs by writing in console:
 
-        npm init
+        npm install
 
 4. Launch the project by writing in console:
 
